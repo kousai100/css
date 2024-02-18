@@ -1,0 +1,21 @@
+div{
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #b0b4b8;
+    }
+    .element-1{
+        font-size: 40px;        
+        border-left: 10px solid #ac1313;
+        
+    }
+    .element-2{
+        visibility: hidden;
+
+        
+        }
+    .element-3{
+        font-size: 40px;
+        border-left: 10px solid #46b125;
+
+    }
